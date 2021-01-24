@@ -1,0 +1,6 @@
+data
+.ipynb_checkpoints
+*.pyc
+pymc3/.ipynb_checkpoints
+algos/.ipynb_checkpoints
+__pycache__
